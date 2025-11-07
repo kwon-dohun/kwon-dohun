@@ -1,6 +1,9 @@
 # Welcome to my world 👽
 
 
+- 🎓 ITM Student at SeoulTech
+- 📧 Email: dhkwon0901@gamil.com
+
 <!--
 **kwon-dohun/kwon-dohun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
